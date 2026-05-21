@@ -8,8 +8,8 @@
 - start_time(date, time)
 - end_time(date, time)
 - price(float)
-- age limit(int)
-- place(FK from places table)
+- age_limit(int)
+- place_id(FK from places table)
 
 ## 2) places table:
 - id(int, PK)
