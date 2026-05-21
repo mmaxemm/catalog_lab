@@ -1,5 +1,5 @@
 # catalog_lab
-## technologies: postgresql, js
+## technologies: postgresql, js, golang
 
 ## 1) events table:
 - id(int, PK)
